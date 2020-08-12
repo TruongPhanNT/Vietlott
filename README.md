@@ -1,9 +1,6 @@
 # Vietlott
 
-Dear All,
+This dataset is scrapped from vietlott.vn
 
-Please reference source from this Resposistory when you use these files.
-
-Thanks,
-
+Author:
 Steve Phan
